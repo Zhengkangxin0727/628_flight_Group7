@@ -1,0 +1,377 @@
+City,Timezone
+"Indianapolis, IN",EST
+"New York, NY",EST
+"Cincinnati, OH",EST
+"Atlanta, GA",EST
+"Buffalo, NY",EST
+"Tulsa, OK",CST
+"Knoxville, TN",EST
+"Richmond, VA",EST
+"Norfolk, VA",EST
+"Kansas City, MO",CST
+"Raleigh/Durham, NC",EST
+"Rochester, NY",EST
+"Des Moines, IA",CST
+"Memphis, TN",CST
+"St. Louis, MO",CST
+"Chattanooga, TN",EST
+"Minneapolis, MN",CST
+"White Plains, NY",EST
+"Baton Rouge, LA",CST
+"Columbus, OH",EST
+"Detroit, MI",EST
+"Washington, DC",EST
+"Portland, ME",EST
+"Lexington, KY",EST
+"Jacksonville, FL",EST
+"Charleston, SC",EST
+"Fargo, ND",CST
+"Worcester, MA",EST
+"Bangor, ME",EST
+"Providence, RI",EST
+"Ithaca/Cortland, NY",EST
+"Alexandria, LA",CST
+"Charlotte, NC",EST
+"Fayetteville, NC",EST
+"Dayton, OH",EST
+"Cleveland, OH",EST
+"Madison, WI",CST
+"Augusta, GA",EST
+"Nashville, TN",CST
+"Pensacola, FL",CST
+"Myrtle Beach, SC",EST
+"Montgomery, AL",CST
+"Omaha, NE",CST
+"Grand Rapids, MI",EST
+"Charleston/Dunbar, WV",EST
+"Columbia, SC",EST
+"Duluth, MN",CST
+"Tallahassee, FL",EST
+"Appleton, WI",CST
+"Savannah, GA",EST
+"Albany, NY",EST
+"Newark, NJ",EST
+"Lansing, MI",EST
+"Syracuse, NY",EST
+"Charlottesville, VA",EST
+"Miami, FL",EST
+"Little Rock, AR",CST
+"Pittsburgh, PA",EST
+"Burlington, VT",EST
+"Hartford, CT",EST
+"Philadelphia, PA",EST
+"Dothan, AL",CST
+"Key West, FL",EST
+"Greensboro/High Point, NC",EST
+"Birmingham, AL",CST
+"Columbus, MS",CST
+"Traverse City, MI",EST
+"Wilmington, NC",EST
+"Bloomington/Normal, IL",CST
+"Mobile, AL",CST
+"Monroe, LA",CST
+"Rochester, MN",CST
+"Moline, IL",CST
+"Jacksonville/Camp Lejeune, NC",EST
+"Milwaukee, WI",CST
+"Fayetteville, AR",CST
+"Harrisburg, PA",EST
+"Louisville, KY",EST
+"Marquette, MI",EST
+"Austin, TX",CST
+"Wichita, KS",CST
+"Mosinee, WI",CST
+"Jackson/Vicksburg, MS",CST
+"Roanoke, VA",EST
+"Bristol/Johnson City/Kingsport, TN",EST
+"Lafayette, LA",CST
+"Baltimore, MD",EST
+"Shreveport, LA",CST
+"Greer, SC",EST
+"Sioux Falls, SD",CST
+"Allentown/Bethlehem/Easton, PA",EST
+"Grand Forks, ND",CST
+"Green Bay, WI",CST
+"Valdosta, GA",EST
+"Asheville, NC",EST
+"Springfield, MO",CST
+"Chicago, IL",CST
+"Huntsville, AL",CST
+"Fort Lauderdale, FL",EST
+"Cedar Rapids/Iowa City, IA",CST
+"Kalamazoo, MI",EST
+"Binghamton, NY",EST
+"Gainesville, FL",EST
+"Gulfport/Biloxi, MS",CST
+"Boston, MA",EST
+"New Orleans, LA",CST
+"Fort Myers, FL",EST
+"South Bend, IN",EST
+"Los Angeles, CA",PST
+"Honolulu, HI",HST
+"Las Vegas, NV",PST
+"Albuquerque, NM",MST
+"Dallas/Fort Worth, TX",CST
+"San Francisco, CA",PST
+"Phoenix, AZ",MST
+"Kona, HI",HST
+"Scranton/Wilkes-Barre, PA",EST
+"San Antonio, TX",CST
+"Kahului, HI",HST
+"Daytona Beach, FL",EST
+"Denver, CO",MST
+"San Diego, CA",PST
+"Eagle, CO",MST
+"West Palm Beach/Palm Beach, FL",EST
+"Portland, OR",PST
+"San Juan, PR",AST
+"Houston, TX",CST
+"Orlando, FL",EST
+"Ontario, CA",PST
+"Lihue, HI",HST
+"Charlotte Amalie, VI",AST
+"Tampa, FL",EST
+"Seattle, WA",PST
+"Sacramento, CA",PST
+"Lubbock, TX",CST
+"Jackson, WY",MST
+"Sarasota/Bradenton, FL",EST
+"Amarillo, TX",CST
+"Spokane, WA",PST
+"Santa Ana, CA",PST
+"Bozeman, MT",MST
+"Salt Lake City, UT",MST
+"Palm Springs, CA",PST
+"Fresno, CA",PST
+"Eugene, OR",PST
+"Reno, NV",PST
+"Tucson, AZ",MST
+"Oklahoma City, OK",CST
+"Panama City, FL",CST
+"El Paso, TX",MST
+"Valparaiso, FL",CST
+"Mission/McAllen/Edinburg, TX",CST
+"Burbank, CA",PST
+"Santa Barbara, CA",PST
+"Bakersfield, CA",PST
+"San Luis Obispo, CA",PST
+"San Jose, CA",PST
+"Colorado Springs, CO",MST
+"Boise, ID",MST
+"Anchorage, AK",AKST
+"Gunnison, CO",MST
+"Hayden, CO",MST
+"Monterey, CA",PST
+"Montrose/Delta, CO",MST
+"Christiansted, VI",AST
+"Missoula, MT",MST
+"New Bern/Morehead/Beaufort, NC",EST
+"Erie, PA",EST
+"Ashland, WV",EST
+"Watertown, NY",EST
+"Greenville, NC",EST
+"State College, PA",EST
+"Fort Wayne, IN",EST
+"Manchester, NH",EST
+"Lynchburg, VA",EST
+"Newport News/Williamsburg, VA",EST
+"Evansville, IN",CST
+"Florence, SC",EST
+"Salisbury, MD",EST
+"Manhattan/Ft. Riley, KS",CST
+"Flint, MI",EST
+"Springfield, IL",CST
+"Columbia, MO",CST
+"La Crosse, WI",CST
+"Peoria, IL",CST
+"Waterloo, IA",CST
+"Laredo, TX",CST
+"Lawton/Fort Sill, OK",CST
+"Beaumont/Port Arthur, TX",CST
+"Bethel, AK",AKST
+"Barrow, AK",AKST
+"Deadhorse, AK",AKST
+"Juneau, AK",AKST
+"Ketchikan, AK",AKST
+"Yakutat, AK",AKST
+"Cordova, AK",AKST
+"Sitka, AK",AKST
+"Petersburg, AK",AKST
+"Wrangell, AK",AKST
+"Kodiak, AK",AKST
+"Fairbanks, AK",AKST
+"Nome, AK",AKST
+"Kotzebue, AK",AKST
+"Dallas, TX",CST
+"Everett, WA",PST
+"Bend/Redmond, OR",PST
+"Pasco/Kennewick/Richland, WA",PST
+"Santa Rosa, CA",PST
+"Oakland, CA",PST
+"Adak Island, AK",HAST
+"Yakima, WA",PST
+"Pullman, WA",PST
+"Idaho Falls, ID",MST
+"Medford, OR",PST
+"Billings, MT",MST
+"Kalispell, MT",MST
+"Wenatchee, WA",PST
+"Dillingham, AK",AKST
+"King Salmon, AK",AKST
+"Sun Valley/Hailey/Ketchum, ID",MST
+"Great Falls, MT",MST
+"Redding, CA",PST
+"Aguadilla, PR",AST
+"Ponce, PR",AST
+"Killeen, TX",CST
+"Lake Charles, LA",CST
+"Yuma, AZ",MST
+"Aspen, CO",MST
+"Longview, TX",CST
+"Casper, WY",MST
+"Elko, NV",PST
+"Albany, GA",EST
+"International Falls, MN",CST
+"Iron Mountain/Kingsfd, MI",CST
+"Stillwater, OK",CST
+"Tyler, TX",CST
+"Brunswick, GA",EST
+"Grand Island, NE",CST
+"Minot, ND",CST
+"Rapid City, SD",MST
+"Williston, ND",CST
+"Walla Walla, WA",PST
+"Twin Falls, ID",MST
+"Bismarck/Mandan, ND",CST
+"Pocatello, ID",MST
+"Grand Junction, CO",MST
+"Arcata/Eureka, CA",PST
+"Helena, MT",MST
+"Lewiston, ID",PST
+"Midland/Odessa, TX",CST
+"Long Beach, CA",PST
+"Joplin, MO",CST
+"Wichita Falls, TX",CST
+"Aberdeen, SD",CST
+"Bemidji, MN",CST
+"Akron, OH",EST
+"Saginaw/Bay City/Midland, MI",EST
+"Rhinelander, WI",CST
+"Salina, KS",CST
+"Dodge City, KS",CST
+"Durango, CO",MST
+"Santa Fe, NM",MST
+"Sault Ste. Marie, MI",EST
+"Hibbing, MN",CST
+"Brainerd, MN",CST
+"Hancock/Houghton, MI",EST
+"Garden City, KS",CST
+"Butte, MT",MST
+"Columbus, GA",EST
+"Escanaba, MI",EST
+"Roswell, NM",MST
+"Texarkana, AR",CST
+"St. George, UT",MST
+"Flagstaff, AZ",MST
+"Fort Smith, AR",CST
+"Cedar City, UT",MST
+"Waco, TX",CST
+"North Bend/Coos Bay, OR",PST
+"College Station/Bryan, TX",CST
+"Corpus Christi, TX",CST
+"Moab, UT",MST
+"Sioux City, IA",CST
+"Bellingham, WA",PST
+"Elmira/Corning, NY",EST
+"Fort Dodge, IA",CST
+"Devils Lake, ND",CST
+"Hays, KS",CST
+"Johnstown, PA",EST
+"Lincoln, NE",CST
+"Bishop, CA",PST
+"Decatur, IL",CST
+"Victoria, TX",CST
+"Alpena, MI",EST
+"Pellston, MI",EST
+"San Angelo, TX",CST
+"Meridian, MS",CST
+"Hattiesburg/Laurel, MS",CST
+"Laramie, WY",MST
+"Scottsbluff, NE",MST
+"Vernal, UT",MST
+"Harlingen/San Benito, TX",CST
+"Rock Springs, WY",MST
+"Jamestown, ND",CST
+"Riverton/Lander, WY",MST
+"Sheridan, WY",MST
+"Dickinson, ND",MST
+"Cheyenne, WY",MST
+"Prescott, AZ",MST
+"Liberal, KS",MST
+"Mason City, IA",CST
+"Gillette, WY",MST
+"North Platte, NE",MST
+"Guam, TT",ChST
+"Saipan, TT",ChST
+"Hobbs, NM",MST
+"Presque Isle/Houlton, ME",EST
+"Cody, WY",MST
+"Brownsville, TX",CST
+"Islip, NY",EST
+"Hilo, HI",HST
+"Melbourne, FL",EST
+"Trenton, NJ",EST
+"Provo, UT",MST
+"Rockford, IL",CST
+"Sanford, FL",EST
+"Stockton, CA",PST
+"Punta Gorda, FL",EST
+"St. Petersburg, FL",EST
+"Toledo, OH",EST
+"Belleville, IL",CST
+"Newburgh/Poughkeepsie, NY",EST
+"Hagerstown, MD",EST
+"Concord, NC",EST
+"Clarksburg/Fairmont, WV",EST
+"Santa Maria, CA",PST
+"Portsmouth, NH",EST
+"Plattsburgh, NY",EST
+"Niagara Falls, NY",EST
+"St. Cloud, MN",CST
+"Pago Pago, TT",SST
+"Abilene, TX",CST
+"Hilton Head, SC",EST
+"Champaign/Urbana, IL",CST
+"Atlantic City, NJ",EST
+"Latrobe, PA",EST
+"Mammoth Lakes, CA",PST
+"Kearney, NE",CST
+"Eau Claire, WI",CST
+"Staunton, VA",EST
+"Muskegon, MI",EST
+"Pueblo, CO",MST
+"Cape Girardeau, MO",CST
+"Paducah, KY",CST
+"Quincy, IL",CST
+"Lewisburg, WV",EST
+"Watertown, SD",CST
+"Ogdensburg, NY",EST
+"Pierre, SD",CST
+"Ogden, UT",MST
+"Owensboro, KY",CST
+"Dubuque, IA",CST
+"New Haven, CT",EST
+"Del Rio, TX",CST
+"Williamsport, PA",EST
+"Hoolehua, HI",HST
+"Lanai, HI",HST
+"Kapalua, HI",HST
+"CONCORD, NC",EST
+"Branson, MO",CST
+"Unalaska, AK",AKST
+"Cold Bay, AK",AKST
+"Nantucket, MA",EST
+"Alamosa, CO",MST
+"Bullhead City, AZ",MST
+"Rota, TT",ChST
+"Youngstown/Warren, OH",EST

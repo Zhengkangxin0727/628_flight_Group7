@@ -1,0 +1,10 @@
+name: shiny
+title:
+username: crj2002
+account: crj2002
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13281357
+bundleId: 9361183
+url: https://crj2002.shinyapps.io/shiny/
+version: 1
