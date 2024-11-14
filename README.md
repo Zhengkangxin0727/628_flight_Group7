@@ -4,10 +4,12 @@ It's our group project about predicting cancellation and delay of flights in cla
 The repository includes:
 
 Datasets:data.zip (including raw flight data,weather data and the data we processed)
+As it is too large to update,we provide the google link.
+link:https://drive.google.com/drive/folders/1Yp4T02XDTKPpPWna9JBP7KJGRXZ-YQHd?usp=drive_link
 
 Presentation slides: FlightCancelDelayPrediction.pptx
 
-Code: data cleaning/merge/LogisticRegression/LightGBM
+Code: data_combine.ipynb/Datacleaning.ipynb/LogisticModel&Diagnose.ipynb/2024.ipynb/EDA.ipynb/model.ipynb/timezone.ipynb/combined_data1.csv/nearest_stations3.csv
 
 Three-page summary: Airline Summary.pdf
 
